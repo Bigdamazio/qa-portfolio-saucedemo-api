@@ -1,8 +1,30 @@
 # Relatório de Bugs
 
-Use este arquivo para registrar bugs reais encontrados durante os testes.
+Até o momento, foram executados os cenários iniciais de validação de login no SauceDemo.
 
-## Modelo
+## Cenários executados
+- Login com credenciais válidas
+- Login com senha inválida
+- Login com campos vazios
+
+## Resultado da execução
+Durante a execução desses testes iniciais, não foram identificados bugs funcionais nos fluxos de login avaliados.
+
+O sistema apresentou o comportamento esperado nos seguintes pontos:
+- permitiu acesso com credenciais válidas
+- bloqueou acesso com senha inválida
+- exibiu mensagem de erro ao tentar login com campos vazios
+
+## Observação
+Este arquivo será atualizado conforme novos testes forem executados nas próximas etapas do projeto, principalmente nos fluxos de:
+- carrinho
+- remoção de produto
+- checkout
+- validações adicionais de interface e comportamento
+
+---
+
+## Modelo para futuros registros
 
 ### BUG-001 - [Título do bug]
 
@@ -31,8 +53,3 @@ Baixa / Média / Alta
 
 **Evidência:**  
 Nome do print, vídeo ou link para evidência.
-
----
-
-### Observação
-Se você não encontrar bugs reais no início, pode registrar cenários de estudo, mas deixando isso claro no texto.

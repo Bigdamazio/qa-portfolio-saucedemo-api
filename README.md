@@ -61,7 +61,8 @@ qa-portfolio-saucedemo-api/
 │   ├── plano-de-testes.md
 │   ├── casos-de-teste.md
 │   ├── relatorio-de-bugs.md
-│   └── checklist-validacao.md
+│   ├── checklist-validacao.md
+│   └── api-testing.md
 ├── evidencias/
 │   ├── screenshots/
 │   └── videos/

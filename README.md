@@ -1,20 +1,35 @@
 # QA Portfolio - SauceDemo + API
 
-Este projeto foi criado para reunir exemplos práticos da minha evolução em QA, com foco em testes manuais, documentação, análise de cenários, bug reports e testes de API.
+Projeto de portfólio criado para reunir exemplos práticos da minha evolução em **QA**, com foco em **testes manuais**, **documentação**, **análise de cenários**, **bug reports** e **testes de API**.
 
-A proposta aqui é mostrar, de forma organizada, como eu estruturo um projeto de testes mesmo sem experiência formal prévia na área.
+A ideia deste repositório é mostrar, de forma organizada, como eu estruturo um projeto de testes na prática.
+
+---
+
+## Status atual
+
+- ✅ Login
+- ✅ Carrinho
+- ✅ Checkout
+- 🔄 Testes de API
+- 🔄 Evolução para automação
+
+---
 
 ## Objetivo do projeto
 
-Validar fluxos importantes de uma aplicação web demo e complementar o portfólio com testes de API, documentação e evidências.
+Validar fluxos importantes de uma aplicação web demo e complementar o portfólio com testes de API, documentação e evidências de execução.
 
-## Escopo deste projeto
+---
+
+## Escopo
 
 ### Web
-- Login
-- Validação de mensagens de erro
-- Adição de produtos ao carrinho
-- Remoção de produtos do carrinho
+- Login com credenciais válidas
+- Login com senha inválida
+- Login com campos vazios
+- Adição de produto ao carrinho
+- Remoção de produto do carrinho
 - Finalização de compra
 
 ### API
@@ -24,6 +39,8 @@ Validar fluxos importantes de uma aplicação web demo e complementar o portfól
 - Estrutura de resposta
 - Cenários positivos e negativos
 
+---
+
 ## Ferramentas utilizadas
 
 - Postman
@@ -32,6 +49,8 @@ Validar fluxos importantes de uma aplicação web demo e complementar o portfól
 - Markdown
 - SauceDemo
 - API pública para testes
+
+---
 
 ## Estrutura do repositório
 
@@ -48,21 +67,3 @@ qa-portfolio-saucedemo-api/
 │   └── videos/
 └── automacao/
     └── README.md
-```
-
-## O que este projeto pretende mostrar
-
-- Organização de documentação
-- Escrita de casos de teste
-- Registro de bugs
-- Análise de cenários positivos, negativos e edge cases
-- Capacidade de validar APIs e aplicações web
-- Evolução prática em QA
-
-## Próximos passos
-
-- Executar os testes manuais
-- Registrar evidências
-- Documentar bugs encontrados
-- Adicionar coleção Postman
-- Evoluir para uma automação simples

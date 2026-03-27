@@ -1,31 +1,31 @@
 # Checklist de Validação
 
 ## Login
-- [ ] Campo de usuário aceita valor válido
-- [ ] Campo de senha aceita valor válido
-- [ ] Mensagem de erro aparece com credencial inválida
-- [ ] Mensagem de erro aparece com campos vazios
-- [ ] Login redireciona corretamente
+- [x] Campo de usuário aceita valor válido
+- [x] Campo de senha aceita valor válido
+- [x] Mensagem de erro aparece com credencial inválida
+- [x] Mensagem de erro aparece com campos vazios
+- [x] Login redireciona corretamente
 
 ## Produtos
-- [ ] Lista de produtos carrega corretamente
-- [ ] Botão de adicionar funciona
-- [ ] Botão muda após adicionar produto
-- [ ] Carrinho atualiza quantidade
+- [x] Lista de produtos carrega corretamente
+- [x] Botão de adicionar funciona
+- [x] Botão muda após adicionar produto
+- [x] Carrinho atualiza quantidade
 
 ## Carrinho
-- [ ] Produto aparece no carrinho
-- [ ] Produto pode ser removido
-- [ ] Quantidade exibida faz sentido
+- [x] Produto aparece no carrinho
+- [x] Produto pode ser removido
+- [x] Quantidade exibida faz sentido
 
 ## Checkout
-- [ ] Checkout inicia corretamente
-- [ ] Campos obrigatórios são validados
-- [ ] Compra pode ser concluída
-- [ ] Mensagem final é exibida
+- [x] Checkout inicia corretamente
+- [x] Campos obrigatórios são validados
+- [x] Compra pode ser concluída
+- [x] Mensagem final é exibida
 
 ## Qualidade visual e comportamento
-- [ ] Sem erros visíveis de layout
-- [ ] Sem travamentos perceptíveis
-- [ ] Mensagens estão claras
-- [ ] Fluxo faz sentido para o usuário
+- [x] Sem erros visíveis de layout
+- [x] Sem travamentos perceptíveis
+- [x] Mensagens estão claras
+- [x] Fluxo faz sentido para o usuário

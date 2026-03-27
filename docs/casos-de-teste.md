@@ -96,4 +96,6 @@
 5. Confirmar a compra
 
 **Resultado esperado:** Compra deve ser finalizada com sucesso.  
-**Status:** Não executado
+**Resultado obtido:** O sistema permitiu o preenchimento dos dados, avançou corretamente nas etapas e concluiu a compra com sucesso.  
+**Status:** Aprovado  
+**Evidência:** `evidencias/videos/checkout-sucesso.mp4` e `evidencias/screenshots/checkout-sucesso.png`

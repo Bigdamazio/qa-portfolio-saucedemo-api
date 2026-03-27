@@ -1,5 +1,10 @@
 # QA Portfolio - SauceDemo + API
 
+![QA](https://img.shields.io/badge/QA-1F6FEB?style=flat-square)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-0A66C2?style=flat-square)
+![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=flat-square&logo=postman&logoColor=white)
+
 Projeto de portfólio criado para reunir exemplos práticos da minha evolução em **QA**, com foco em **testes manuais**, **documentação**, **análise de cenários**, **bug reports** e **testes de API**.
 
 A ideia deste repositório é mostrar, de forma organizada, como eu estruturo um projeto de testes na prática.
@@ -48,7 +53,7 @@ Validar fluxos importantes de uma aplicação web demo e complementar o portfól
 - GitHub
 - Markdown
 - SauceDemo
-- API pública para testes
+- ReqRes
 
 ---
 

@@ -11,7 +11,7 @@ A ideia deste repositório é mostrar, de forma organizada, como eu estruturo um
 - ✅ Login
 - ✅ Carrinho
 - ✅ Checkout
-- 🔄 Testes de API
+- ✅ Testes de API
 - 🔄 Evolução para automação
 
 ---

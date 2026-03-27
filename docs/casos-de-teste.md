@@ -62,7 +62,9 @@
 4. Acessar o carrinho
 
 **Resultado esperado:** Produto deve aparecer no carrinho com sucesso.  
-**Status:** Não executado
+**Resultado obtido:** O produto foi adicionado ao carrinho corretamente e ficou visível na tela do carrinho.  
+**Status:** Aprovado  
+**Evidência:** `evidencias/screenshots/produto-adicionado-carrinho1.png`
 
 ---
 
@@ -76,7 +78,9 @@
 3. Clicar em **Remove**
 
 **Resultado esperado:** Produto deve ser removido do carrinho.  
-**Status:** Não executado
+**Resultado obtido:** O produto foi removido do carrinho com sucesso e não ficou mais visível na listagem.  
+**Status:** Aprovado  
+**Evidência:** `evidencias/screenshots/produto-removido-carrinho.png`
 
 ---
 
